@@ -6,6 +6,6 @@ func split(sum int) (x, y int) {
 	return
 }
 
-func main() {
-	println(split(8))
-}
+//func main() {
+//	println(split(8))
+//}
