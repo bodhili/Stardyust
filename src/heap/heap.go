@@ -85,5 +85,5 @@ func main() {
 		"B": {"A": 7, "C": 10},
 	}
 
-	fmt.Println(graph)
+	fmt.Println(Dijkstra(graph, "A", "B"))
 }
