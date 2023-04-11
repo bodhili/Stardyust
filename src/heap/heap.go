@@ -3,7 +3,6 @@ package main
 import (
 	"container/heap"
 	"fmt"
-	_ "fmt"
 )
 
 type Graph map[string]map[string]int
